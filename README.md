@@ -49,5 +49,6 @@ remotes::install_github("bluegreen-labs/cimir")  # for dew point / humidity calc
 ## Further reading:
 
 https://doi.org/10.3390/drones7120695
+
 https://doi.org/10.1071/ES24008
 
